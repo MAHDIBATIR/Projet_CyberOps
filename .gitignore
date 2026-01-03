@@ -1,0 +1,13 @@
+# Clés SSH privées
+*.pem
+*.ppk
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Données Docker locales
+mysql_data/
